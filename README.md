@@ -3,7 +3,7 @@
 Build a dinner decider android app with kotlin support
 
 
-# What is it?
+# what is it?
 
 Here, I have made a Dinner Decider app in Android Studio using Kotlin support.
 This project contain two activities:
@@ -19,7 +19,7 @@ In this way if you have a confusion to select any food stuff for your dinner or 
 you can put a list on this app and ask it to select anything randomly, for your ease!!
 
 
-# APK Link
+# apk link
 
 [dinner decider - apk](https://github.com/ashish7zeph/android-kotlin-decider-app/blob/master/apk/Dinner%20Decider.apk)
 
@@ -35,7 +35,7 @@ you can put a list on this app and ask it to select anything randomly, for your 
 
 # Platform
         -> Android Studio
-        -> Kotlin Support
+        -> With Kotlin Support
 
 # Licence
 
