@@ -2,11 +2,8 @@
 
 Build a dinner decider android app with kotlin support
 
-# Licence
 
-Licensed under the MIT License
-
-### What is it?
+# What is it?
 
 Here, I have made a Dinner Decider app in Android Studio using Kotlin support.
 This project contain two activities:
@@ -21,17 +18,26 @@ CLICK on the TextView - > the list inside will be cleared
 In this way if you have a confusion to select any food stuff for your dinner or any food restaurent for dinner,
 you can put a list on this app and ask it to select anything randomly, for your ease!!
 
-### apk Link
+
+# APK Link
 
 [dinner decider - apk](https://github.com/ashish7zeph/android-kotlin-decider-app/blob/master/apk/Dinner%20Decider.apk)
 
 
 # Design
 
+### Splash Screen
 ![](https://github.com/ashish7zeph/android-kotlin-decider-app/blob/master/screenshots/img1.png)
 
+### Main Activity
 ![](https://github.com/ashish7zeph/android-kotlin-decider-app/blob/master/screenshots/img2.png)
 
-![](https://github.com/ashish7zeph/android-kotlin-decider-app/blob/master/screenshots/img3.png)
 
-![](https://github.com/ashish7zeph/android-kotlin-decider-app/blob/master/screenshots/img4.png)
+# Platform
+        -> Android Studio
+        -> Kotlin Support
+
+# Licence
+
+Licensed under the MIT License
+
