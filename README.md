@@ -3,7 +3,7 @@
 Build a dinner decider android app with kotlin support
 
 
-# what is it?
+# About
 
 Here, I have made a Dinner Decider app in Android Studio using Kotlin support.
 
