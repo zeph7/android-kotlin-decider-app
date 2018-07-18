@@ -16,7 +16,7 @@ Here, I have made a Dinner Decider app in Android Studio using Kotlin support.
     CLICK on Add Food Button -> the food stuff written on above EditText will be add to the list
     CLICK on the TextView - > the list inside will be cleared
 
-In this way if you have a confusion to select any food stuff for your dinner or any food restaurent for dinner,
+In this way if you have a confusion to select any food stuff for your dinner or any food restaurant for dinner,
 you can put a list on this app and ask it to select anything randomly, for your ease!!
 
 
